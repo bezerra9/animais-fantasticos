@@ -14,4 +14,7 @@ import initModal from "./modules/modal.js";
 initModal();
 
 import initTooltip from "./modules/tooltip.js";
-initTooltip()
+initTooltip();
+
+import initDropdownMenu from "./modules/dropdown.js";
+initDropdownMenu();
