@@ -188,6 +188,11 @@ body {
 }
 
 @media (max-width: 700px) {
+  .numeros-grid {
+    grid-column: 1;
+
+  }
+
   .grid-container {
     grid-template-columns: 1fr;
   }
