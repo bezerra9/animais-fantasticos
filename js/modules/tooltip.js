@@ -41,6 +41,6 @@ export default function initTooltip() {
     return tooltipBox
   }
 
-  console.log('oi')
+
 }
 
